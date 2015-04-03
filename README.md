@@ -21,20 +21,21 @@ $ git clone git@github.com:agomezm86/IMDBArandaSoft.git
 
 - Nota: es importante aclarar que se debe abrir el archivo .xcworkspace y no el archivo ```IMDB.xcodeproj```, ya que este no contiene el proyecto Pods para el consumo de servicio de https://www.themoviedb.org/
 
+2. Con el proyecto abierto, seleccionar el dispostivo para realizar la simulación y seleccionar la opción Run
+
 ## Compatibilidad: ##
 
-- La aplicación es compatible con versiones de iOS 8.0 o superior.
-- Requiere Automatic Reference Counting (ARC). Disponible desde Xcode versión 4.2 o superior.
-- La aplicación fue probada en los siguientes simuladores:
-
-* iPad 2
-* iPad Air
-* iPad Retina
-* iPhone 4S
-* iPhone 5
-* iPhone 5S
-* iPhone 6
-* iPhone 6 plus
+1. La aplicación es compatible con versiones de iOS 8.0 o superior.
+2. Requiere Automatic Reference Counting (ARC). Disponible desde Xcode versión 4.2 o superior.
+3. La aplicación fue probada en los siguientes simuladores:
+- iPad 2
+- iPad Air
+- iPad Retina
+- iPhone 4S
+- iPhone 5
+- iPhone 5S
+- iPhone 6
+- iPhone 6 plus
 
 ## Contacto: ##
 
