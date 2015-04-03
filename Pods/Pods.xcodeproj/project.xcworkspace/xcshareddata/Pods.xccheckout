@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>91708D82-13A7-4846-8E9E-56B5CA14F8D2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Pods</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5B489105B3C84C3DBDA0E3CCD7B40F749CA24D53</key>
+		<string>github.com:JaviLorbada/JLTMDbClient.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Pods/Pods.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5B489105B3C84C3DBDA0E3CCD7B40F749CA24D53</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:JaviLorbada/JLTMDbClient.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5B489105B3C84C3DBDA0E3CCD7B40F749CA24D53</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5B489105B3C84C3DBDA0E3CCD7B40F749CA24D53</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JLTMDbClient</string>
+		</dict>
+	</array>
+</dict>
+</plist>

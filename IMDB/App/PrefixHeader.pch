@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  IMDB
+//
+//  Created by Alejandro Gómez on 1/04/15.
+//  Copyright (c) 2015 Alejandro Gómez. All rights reserved.
+//
+
+// <summary>
+// Librerias compiladas para ser usadas por todas las clases
+// </summary>
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "Constants.h"
+#endif
+
