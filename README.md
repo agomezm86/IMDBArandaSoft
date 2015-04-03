@@ -25,6 +25,7 @@ $ git clone git@github.com:agomezm86/IMDBArandaSoft.git
 
 1. La aplicación es compatible con versiones de iOS 8.0 o superior.
 2. La aplicación fue probada en los siguientes simuladores: iPad 2, iPad Air, iPad Retina, iPhone 4S, iPhone 5, iPhone 5S, iPhone 6, iPhone 6 plus.
+3. La aplicación en su primera versión solo soporta orientación Portrait
 
 ## Contacto: ##
 
